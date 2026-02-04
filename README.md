@@ -120,5 +120,5 @@ Parkinsons-Detection-DeepLearning/
 
 👨‍💻 Developed by
 
-Samprith
+Samprith  N S
 
